@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **aaaaaa30101975@gmail.com**
+- 📫 How to reach me <a src="mailto:alyashrafaly1">email</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
