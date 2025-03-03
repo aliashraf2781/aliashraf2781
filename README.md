@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aliashraf2781" target="blank"><img src="https://img.shields.io/twitter/follow/aliashraf2781?logo=twitter&style=for-the-badge" alt="aliashraf2781" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Next Js**
 
 - 💬 Ask me about **Anything**
 
